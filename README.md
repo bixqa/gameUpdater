@@ -20,6 +20,6 @@ You can make the change now to this growing open source engine! Anything is bett
  -  Your game performance on GameMaker is bad because putting stuff on Draw events is too convenient.
 
 And so much more...
-Godot isn't perfect: you may not be able to run on a poor laptop, even if it's designed to run on potato equipment. If you're have a poor equipment, make sure to get the website version and NOT the Steam one, as Steam can be intrusive and consume resources in the background when you try to run Godot.
+Godot isn't perfect: you may not be able to run on a poor laptop, even if it's designed to run on potato equipment. If you're have a low-end unit, make sure to get the website version and NOT the Steam one, as Steam can be intrusive and consume resources in the background when you try to run Godot. Also debug the game on the Mobile rendering method. You may export it on Compatibility or Forward+ once you publish a build.
 
 ...But it gives you control over 2D and 3D while also giving you many alternatives to make the same things. Unless you're a Clickteam god like the mythical Buby or a stubborn masochist, you should check out Godot.
