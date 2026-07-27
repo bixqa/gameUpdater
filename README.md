@@ -17,8 +17,8 @@ You can make the change now to this growing open source engine! Anything is bett
  -  Your Turbowarp office scrolling looks janky because it doesn't allow for floats onscreen.
  -  You're tired of near-90s UI and piss-poor documentation on Fusion and its obsolete 3D engine.
  -  You can't keep up with the shenanigans the Unity corporation pulls and backtracking a version is too annoying.
- -  I don't know any caveats when using UE, sorry...
  -  Your game performance on GameMaker is bad because putting stuff on Draw events is too convenient.
+ -  I don't know any caveats when using UE or Construct, sorry... I mean, Godot's free & will always be.
 
 And so much more...
 Godot isn't perfect: you may not be able to run on a poor laptop, even if it's designed to run on potato equipment. If you're have a low-end unit, make sure to get the website version and NOT the Steam one, as Steam can be intrusive and consume resources in the background when you try to run Godot. Also debug the game on the Mobile rendering method. You may export it on Compatibility or Forward+ once you publish a build.
