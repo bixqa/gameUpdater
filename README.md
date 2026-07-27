@@ -22,4 +22,4 @@ You can make the change now to this growing open source engine! Anything is bett
 And so much more...
 Godot isn't perfect: you may not be able to run on a poor laptop, even if it's designed to run on potato equipment. If you're have a poor equipment, make sure to get the website version and NOT the Steam one, as Steam can be intrusive and consume resources in the background when you try to run Godot.
 
-But it gives you control over 2D and 3D while also giving you many alternatives to make the same things. Unless you're a Clickteam god like the mythical Buby or a stubborn masochist, you should check out Godot.
+...But it gives you control over 2D and 3D while also giving you many alternatives to make the same things. Unless you're a Clickteam god like the mythical Buby or a stubborn masochist, you should check out Godot.
