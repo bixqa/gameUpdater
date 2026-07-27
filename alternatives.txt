@@ -1,0 +1,13 @@
+Visual node scripting Godot addon to emulate Unity or Unreal Engine
+Orchestrator by CraterCrash
+https://godotengine.org/asset-library/asset/3209
+
+What-You-See-Is-What-You-Get Block code Godot addon to emulate Clickteam Fusion or Construct
+FlowKit by LexianDEV
+https://godotengine.org/asset-library/asset/4506
+
+Block code to emulate Scratch or derived forks
+Block Coding by Endless
+https://godotengine.org/asset-library/asset/3095
+
+You can make the change now to this growing open source engine!
