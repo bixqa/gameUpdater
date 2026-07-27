@@ -14,9 +14,9 @@ Visual node scripting Godot (4.6) addon to emulate Unity or Unreal Engine
 https://godotengine.org/asset-library/asset/3209<br/><br/>
 
 You can make the change now to this growing open source engine! Anything is better than what you already have. Think of all the problems and limitations that come to mind when, for example:
- -  Your Turbowarp office scrolling looks janky because it doesn't allow for floats onscreen
- -  You're tired of near-90s UI and piss-poor documentation on Fusion and its obsolete 3D engine
- -  You can't keep up with the shenanigans the Unity corporation pulls and backtracking a version is too annoying
+ -  Your Turbowarp office scrolling looks janky because it doesn't allow for floats onscreen.
+ -  You're tired of near-90s UI and piss-poor documentation on Fusion and its obsolete 3D engine.
+ -  You can't keep up with the shenanigans the Unity corporation pulls and backtracking a version is too annoying.
  -  Your game performance on GameMaker is bad because putting stuff on Draw events is too convenient.
 
 And so much more...
